@@ -127,4 +127,29 @@ Developed two e-commerce websites using Shopify, focusing on essential online sh
 
 ### React.js Developer Intern – Coder Profession
 
-✨ *Passionate about web development, building responsive applications, and continuously growing as a developer.*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmimahaa&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lakshmimahaa&theme=radical)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmimahaa&layout=compact&theme=radical)
+
+
+
+## 📫 Connect With Me
+
+- 📧 Email: lakshmimaha5141@gmail.com
+- 💼 LinkedIn: https://docs.google.com/document/d/1Uogg0MifdsmGv-4s05jYOpYSARDlH4HN/mobilebasic?
+- 💻 GitHub: [lakshmimahaa](https://github.com/lakshmimahaa
