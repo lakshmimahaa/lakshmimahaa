@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mahalakshmi P
+# Hi there 👋, I'm Mahalakshmi 
 
 🚀 **Web Developer | React.js Developer | Full Stack Developer**
 
@@ -18,54 +18,39 @@ I'm a passionate Web Developer with hands-on experience in **frontend and backen
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### Programming Language
-. JavaScript
+- JavaScript
 
 ### Frontend Development
-> HTML5
-> CSS3
-. React.js
-. React Hooks
-. React Router
-. Context API
+- HTML5
+- CSS3
+- React.js
+- React Hooks
+- React Router
+- Context API
 
 ### Backend Development
-. Node.js
-. REST APIs
+- Node.js
+- REST APIs
 
 ### E-commerce & CMS
-. Shopify
-. WordPress
+- Shopify
+- WordPress
 
 ### Tools & Technologies
-. Git
-. GitHub
-. JSON
-. API Integration
-. Responsive Web Design
-. Manual Testing & Debugging
-
+- Git
+- GitHub
+- JSON
+- API Integration
+- Responsive Web Design
+- Manual Testing
+- Debugging
 ---
 
 ## 🔥 Featured Projects
-
-### 🍗 KFC Clone – E-commerce Website
-
-A responsive e-commerce website developed using React.js, focusing on interactive UI components and food-ordering functionality.
-
-**Key Features**
-. Product listing and dynamic product display
-. Shopping cart and cart item count management
-. Global state management using Context API
-. Navigation using React Router
-. Sign In and Sign Up forms with basic validation
-. Responsive design for mobile and desktop devices
-
-**Tech Stack:** React.js, JavaScript, HTML, CSS, Context API, React Router, REST APIs
-
----
 
 ### 🎓 Multi-Tenant School ERP SaaS Application
 
@@ -97,6 +82,20 @@ Developed two e-commerce websites using Shopify, focusing on essential online sh
 
 ---
 
+## 💻 Internship Experience
+
+### React.js Developer Intern | Coder Profession
+
+- Developed a responsive KFC Clone e-commerce website using React.js.
+- Created reusable functional components using React Hooks.
+- Managed shopping cart state and cart item count using Context API.
+- Implemented page navigation using React Router.
+- Developed product listing and food-ordering functionality.
+- Created Sign In and Sign Up forms with basic validation.
+- Designed responsive user interfaces using HTML5 and CSS3.
+
+**Tech Stack:** React.js, JavaScript, HTML5, CSS3, React Hooks, Context API, React Router
+
 ## 💼 Work Experience
 
 ### Web Developer | Pragan Tech Solutions
@@ -111,7 +110,7 @@ Developed two e-commerce websites using Shopify, focusing on essential online sh
 
 ---
 
-## 💻 Internship Experience
+## 🧠 Internship Experience
 
 ### React.js Developer Intern | Coder Profession
 
@@ -123,5 +122,9 @@ Developed two e-commerce websites using Shopify, focusing on essential online sh
 - Designed responsive user interfaces using CSS3.
 
 ---
+
+## 📜 Certifications
+
+### React.js Developer Intern – Coder Profession
 
 ✨ *Passionate about web development, building responsive applications, and continuously growing as a developer.*
