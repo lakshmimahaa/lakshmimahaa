@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mahalakshmi 
 
-🚀 **Web Developer | React.js Developer | Full Stack Developer**
+🚀 **Web Developer | React.js Developer | Full Stack Developer** 
 
 I'm a passionate Web Developer with hands-on experience in **frontend and backend development, e-commerce website development, and responsive web design**. I enjoy building user-friendly web applications, integrating APIs, solving technical problems, and continuously improving my development skills.
 
