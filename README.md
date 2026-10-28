@@ -24,8 +24,8 @@ I'm a passionate Web Developer with hands-on experience in **frontend and backen
 . JavaScript
 
 ### Frontend Development
-. HTML5
-. CSS3
+> HTML5
+> CSS3
 . React.js
 . React Hooks
 . React Router
