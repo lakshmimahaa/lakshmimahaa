@@ -152,4 +152,4 @@ Developed two e-commerce websites using Shopify, focusing on essential online sh
 
 - 📧 Email: lakshmimaha5141@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/maha-lakshmi-b7ba9a31a
-- 💻 GitHub: [lakshmimahaa](https://github.com/lakshmimahaa
+- 💻 GitHub: https://github.com/lakshmimahaa
